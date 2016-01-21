@@ -12,17 +12,17 @@
   </Capabilities>
   <DesktopSettings>
     <!--To publish to the Add-in Store, enter the URL that this app will be hosted-->
-    <SourceLocation DefaultValue="http://adamjbradley.github.io/App/index.html" />
+    <SourceLocation DefaultValue="https://adamjbradley.github.io/App/index.html" />
     <RequestedHeight>250</RequestedHeight>
   </DesktopSettings>
   <TabletSettings>
     <!--To publish to the Add-in Store, enter the URL that this app will be hosted-->
-    <SourceLocation DefaultValue="http://adamjbradley.github.io/App/index.html" />
+    <SourceLocation DefaultValue="https://adamjbradley.github.io/App/index.html" />
     <RequestedHeight>250</RequestedHeight>
   </TabletSettings>
   <PhoneSettings>
     <!--To publish to the Add-in Store, enter the URL that this app will be hosted-->
-    <SourceLocation DefaultValue="http://adamjbradley.github.io/App/index.html" />
+    <SourceLocation DefaultValue="https://adamjbradley.github.io/App/index.html" />
   </PhoneSettings>
   <Permissions>ReadItem</Permissions>
   <Rule xsi:type="RuleCollection" Mode="And">
